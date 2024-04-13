@@ -1,3 +1,3 @@
-This is a sREADME.md
+This is a README.md
 
 Sample Docker container repo
